@@ -1,0 +1,12 @@
+91 total CNVs replicate early
+91 total CNVs replicate late
+77 total CNVs overlap with both early and late replication regions
+16 homozygous deletion CNVs replicated early
+8 homozygous deletion CNVs replicated late
+0 homozygous deletion CNVs overlap with both early and late replication regions
+52 heterozygous deletion CNVs replicated early
+59 heterozygous deletion CNVs replicated late
+40 heterozygous deletion CNVs overlap with both early and late replication regions
+23 amplification CNVs replicated early
+24 amplification CNVs replicated late
+37 amplification CNVs overlap with both early and late replication regions
